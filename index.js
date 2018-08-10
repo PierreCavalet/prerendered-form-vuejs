@@ -54,4 +54,4 @@ Vue.component('my-form', {
 new Vue({
   el: '#app',
   template: '<my-form></my-form>'
-}).$mount(document.querySelector('#app'))
+})
