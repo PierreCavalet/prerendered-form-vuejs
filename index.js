@@ -4,6 +4,7 @@ Vue.component('my-form', {
       email: '',
       firstName: '',
       lastName: '',
+      previousFocusId: null
     }
   },
   created: function () {
